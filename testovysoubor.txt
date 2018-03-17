@@ -1,2 +1,3 @@
 1. Ahoj Jak se Mas?
 2. Ja se mam dobre a Ty?
+3. docela to ujde už neumim GIT
