@@ -5,6 +5,9 @@
  * pracovat a provedou nad nimi patřičné operace.
  * Uživatel bude moct vybrat, které udaje chce vypsat prostřednictvím
  * parametru funkce menu().
+ *
+ * Řešení nahraj na Git, odevzdávej pouze soubor ukol_zadani_1.c
+ *
  * FILE *soubor - bude obsahovat ukazatel na soubor, se kterým pracujeme
  * double array - bude obsahovat data, se kterými budeme pracovat
  */
@@ -34,4 +37,8 @@ double printModus(double array) {
  */
 void menu(void) {
   // TO-DO
+}
+
+int main()  {
+  return;
 }
