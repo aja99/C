@@ -20,7 +20,7 @@
  */
 
 // Načte data ze souboru a vloží je do pole s výsledky.
-int loadData(int array)  {
+void loadData(int array)  {
   // FILE *soubor = ... 
   
   UNUSED(soubor);
