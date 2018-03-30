@@ -20,7 +20,9 @@
  */
 
 // Načte data ze souboru a vloží je do pole s výsledky.
-int loadData(FILE *soubor, int array)  {
+int loadData(int array)  {
+  // FILE *soubor = ... 
+  
   UNUSED(soubor);
   UNUSED(array);
   // TO-DO
